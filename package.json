@@ -13,6 +13,6 @@
   "author": "Bom Kim",
   "license": "ISC",
   "bin": {
-    "bom-resume": "./index.js"
+    "your-command-here": "./index.js"
   }
 }
